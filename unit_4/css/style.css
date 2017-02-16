@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 
 body {
   text-align: center;
@@ -10,7 +10,7 @@ hr {
   width: 200px;
 }
 p {
-    font-family: 'Cabin Sketch', cursive;
+    font-family: 'Permanent Marker', cursive;
 	font-size: 32px;
 	line-height: 1.5em;
 	margin: 2em;
