@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 
 nav {
-  float: left;
   background-color: #dddddd;
   color: #f04cb7;
   font-family: Arial, sans-serif;
@@ -21,8 +20,6 @@ hr {
 
 h1 {
 	text-transform: uppercase;
-	border-bottom: 4px solid black;
-	display: inline-block;
 	font-weight: 800;
 	font-size: 2em;
 }
