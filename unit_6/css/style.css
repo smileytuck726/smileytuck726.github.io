@@ -17,6 +17,14 @@ body {
 hr {
   width: 200px;
 }
+
+h1 {
+	text-transform: uppercase;
+	border-bottom: 4px solid black;
+	display: inline-block;
+	font-weight: 800;
+}
+
 p {
     font-family: 'Permanent Marker', cursive;
 	font-size: 32px;
