@@ -2,8 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 
 nav {
-  background-color: #aaaaaa;
+  background-color: #dddddd;
+  color: #f04cb7;
   font-family: Arial, sans-serif;
+
 }
 
 body {
