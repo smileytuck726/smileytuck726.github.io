@@ -45,7 +45,7 @@ p {
   margin: 0 auto;
 }
 
-.box {
+div {
   float: left;
   width: 200px;
   height: 100px;
