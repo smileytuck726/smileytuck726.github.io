@@ -8,6 +8,15 @@ nav {
 
 }
 
+nav {
+  float: left;
+  width: 200px;
+}
+
+section {
+  margin-left: 200px;
+}
+
 a {
   background-color: #ff7900;
   color: white;
