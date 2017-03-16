@@ -21,19 +21,8 @@ body {
   font-family: 'Sigmar One', cursive;
 }
 
-hr {
-  width: 200px;
-}
 
-h1 {
-  text-align: center;
-  font-family: 'Permanent Marker', cursive;
-  font-size: 75px;
-  line-height: 1.2em;
-  margin: 1.2em;
-}
-
-h2 {
+h1, h2 {
   font-family: 'Permanent Marker', cursive;
   font-size: 40px;
   line-height: 1em;
