@@ -8,11 +8,8 @@ nav {
 
 nav a{
   text-decoration: none;
-  background-color: #dddddd;
-  color: #f04cb7;
   margin: .5em;
   display: inline-block;
-  float: right;
 }
 
 
