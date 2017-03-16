@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 
 nav {
-  background-color: #dddddd;
-  color: #f04cb7;
-  font-family: Arial, sans-serif;
-
+  font-size: 1.8em;
+  float: right;
 }
 
 nav a{
+  text-decoration: none;
+  background-color: #dddddd;
   color: #f04cb7;
   margin: 1.8em;
   display: inline-block;
