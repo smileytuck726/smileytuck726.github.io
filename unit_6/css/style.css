@@ -33,6 +33,13 @@ h1 {
 
 h2 {
   font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
+  line-height: .5em;
+  margin: .5em;
+}
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
   font-size: 40px;
   line-height: 1em;
   margin: 1em;
