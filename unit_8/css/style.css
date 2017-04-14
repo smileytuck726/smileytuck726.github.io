@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Sigmar+One');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+
+nav {
+  font-size: 1.8em;
+}
+
+nav a{
+  text-decoration: none;
+  margin: .5em;
+  display: inline-block;
+  color: #f04cb7;
+
+}
+
+
+body {
+  text-align: center;
+  background: #dddddd;
+  color: #f04cb7;
+  font-family: 'Sigmar One', cursive;
+}
+
+
+h1 {
+  text-align: center;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 60px;
+  line-height: 1em;
+  margin: 1em;
+}
+
+
+p {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 40px;
+  line-height: .7em;
+  margin: 1.2em;
+}
+
+
+img {
+  display: block;
+  margin: 0 auto;
+} 
+
+#two_column {
+    background-color: #ffffcc;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #ccffff;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: #ffe6cc;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+
